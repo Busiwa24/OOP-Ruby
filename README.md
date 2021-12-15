@@ -13,22 +13,22 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 
 ## Getting Started
 
-- git clone git@github.com:Donard97/oop-school-library-app.git
-- cd oop-school-library-app
-## Authors
+- git clone https://github.com/Busiwa24/OOP-Ruby.git
 
-👤 **Donard Golaj**
+## Author
 
-- Github : [@Donard97](https://github.com/Donard97)
-- Twitter: [@donardgolaj](https://twitter.com/donardgolaj)
-- LinkdIn : [@donard-golaj](https://www.linkedin.com/in/donard-golaj/)
+👤 Busiwa24
+
+-GitHub: (https://github.com/Busiwa24) 
+-Twitter: (https://twitter.com/busiwaliuma) 
+-LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Donard97/oop-school-library-app/issues).
+Feel free to check the [issues page](https://github.com/Busiwa24/OOP-Ruby/issues.)
 
 ## Show your support
 
