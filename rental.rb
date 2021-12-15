@@ -11,3 +11,5 @@ class Rental
     book.rentals << self
   end
 end
+
+
