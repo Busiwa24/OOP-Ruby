@@ -34,5 +34,3 @@ end
 
 me = Person.new(14, 'donard')
 p me.validate_name
-
-
