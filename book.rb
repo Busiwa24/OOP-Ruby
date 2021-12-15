@@ -11,3 +11,5 @@ class Book
     @rentals.push(rental)
   end
 end
+
+
