@@ -1,54 +1,44 @@
-# OOP School Library
+# OPP-SCHOOL-LIBRARY-APP
 
-> This is a project from the third week of the fourth module of the Microverse Program.
+Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The app that I created will allow you to:
 
-OOP School Library is an app/tool that can be used in a school library to record what books are in the library and who borrows them. At the end of the project, users will be able to;
-     - Add new students or teachers.
-     - Add new books, and
-     - Save records of who borrowed a given book and when.
+- Add new students or teachers.
+- Add new books.
+- Save records of who borrowed a given book and when.
 
-
-## Getting Started
-
-- Make sure you have `Ruby` installed in your system. You can install it [here](https://www.ruby-lang.org/en/documentation/installation/
-).
-
-- Clone this repository by running `git clone https://github.com/DammyShittu/School-Library.git` in your command line.
-
-- Navigate to the repository by running `cd School-Library`.
-
-## Optional
-
-- Run `bundle install` to install the `Ruby Gems` including `Rubocop`.
 
 ## Built With
 
-Ruby
+- Ruby
 
-## Version Control System
+## Getting Started
 
-Git
+- git clone https://github.com/Busiwa24/OOP-Ruby.git
 
 ## Author
 
-👤 **Adedamola Shittu**
+👤 Busiwa24
 
-- GitHub: [@dammyShittu](https://github.com/DammyShittu/)
+-GitHub: (https://github.com/Busiwa24) 
+-Twitter: (https://twitter.com/busiwaliuma) 
+-LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-)
 
-- Twitter: [@aded_shittu](https://twitter.com/aded_shittu/)
-
-- LinkedIn: [Adedamola Shittu](https://www.linkedin.com/in/adedamolashittu/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DammyShittu/School-Library/issues).
+Feel free to check the [issues page](https://github.com/Busiwa24/OOP-Ruby/issues.)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## License
+## Acknowledgments
 
-This project is [MIT](LICENSE) licensed.
+- A special thanks to Microverse for inspiring this project. We are indebted to you all at Microverse
+- A special thanks goes to all our peers at Microverse for being there for us.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
