@@ -10,6 +10,7 @@ class Person
     @age = age
     @parent_permission = parent_permission
     @corrector = Corrector.new
+
     @rentals = []
   end
 
@@ -32,5 +33,5 @@ class Person
   end
 end
 
-me = Person.new(14, 'donard')
+me = Person.new(14, 'Busiwa')
 p me.validate_name
