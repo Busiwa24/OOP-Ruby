@@ -11,6 +11,7 @@ class Person
     @name = name
     @parent_permission = parent_permission
     @corrector = Corrector.new
+
     @rentals = []
   end
 
@@ -33,4 +34,5 @@ class Person
   private :of_age?
 end
 
-# rubocop: enable Style/OptionalBooleanParameter
+me = Person.new(14, 'Busiwa')
+p me.validate_name
